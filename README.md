@@ -1,3 +1,5 @@
+![Preview of deployed weather app]('./preview_of_deployment')
+
 # Backend for weather app
 
  Implemented using NodeJs with expressJs framework
