@@ -1,4 +1,4 @@
-![Preview of deployed weather app]('https://github.com/abhinav106b/Weather_app_backend/blob/main/preview_of_deployment.png')
+![Preview of deployed weather app]('./preview_of_deployment.png')
 
 
 
