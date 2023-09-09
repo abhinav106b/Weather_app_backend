@@ -1,4 +1,4 @@
-![Preview of deployed weather app]('./preview_of_deployment.png')
+![Preview of deployed weather app](/preview_of_deployment.png)
 
 
 
